@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1516019533 source:d:\info\lobjav\dandd\main.cpp
+	<iostream>
+	"Joueur.h"
+	"Carte.h"
+	"Salle.h"
+	"Etage.h"
+	"Besace.h"
+	"Potion.h"
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1516024622 source:d:\info\lobjav\dandd\src\carte.cpp
+	"Carte.h"
+
+1515965353 d:\info\lobjav\dandd\include\carte.h
+	"Joueur.h"
+	"Etage.h"
+	"Etage.h"
+	"Objet.h"
+	"Potion.h"
+	"Epee.h"
+	"Armure.h"
+	"Monstre.h"
+	"Blob.h"
+	"Boss.h"
+	"string.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<windows.h>
+
+1516018981 source:d:\info\lobjav\dandd\src\joueur.cpp
+	"Joueur.h"
+
+1516018745 d:\info\lobjav\dandd\include\joueur.h
+	"Monstre.h"
+	"Besace.h"
+	<limits>
+
+1516019558 source:d:\info\lobjav\dandd\src\monstre.cpp
+	"Monstre.h"
+	"Joueur.h"
+	<string>
+
+1516019558 d:\info\lobjav\dandd\include\monstre.h
+	"Objet.h"
+	"Epee.h"
+	"Potion.h"
+	<time.h>
+	<string>
+
+1516018197 source:d:\info\lobjav\dandd\src\objet.cpp
+	"Objet.h"
+
+1516017079 d:\info\lobjav\dandd\include\objet.h
+	<string>
+
+1514730696 d:\info\lobjav\dandd\include\salle.h
+	<string>
+
+1514731028 source:d:\info\lobjav\dandd\src\salle.cpp
+	"Salle.h"
+	<string>
+
+1516017787 d:\info\lobjav\dandd\include\etage.h
+	"Salle.h"
+	<string>
+
+1516017815 source:d:\info\lobjav\dandd\src\etage.cpp
+	"Etage.h"
+	"Salle.h"
+	<string>
+	<iostream>
+
+1514750876 d:\info\lobjav\dandd\include\mouvement.h
+
+1514749077 source:d:\info\lobjav\dandd\src\mouvement.cpp
+	"Mouvement.h"
+
+1516017397 d:\info\lobjav\dandd\include\besace.h
+	<Objet.h>
+	<iostream>
+
+1516017381 source:d:\info\lobjav\dandd\src\besace.cpp
+	"Besace.h"
+	<limits>
+
+1516017948 source:d:\info\lobjav\dandd\src\potion.cpp
+	"Potion.h"
+
+1515896925 d:\info\lobjav\dandd\include\potion.h
+	<Objet.h>
+
+1516018197 source:d:\info\lobjav\dandd\src\blob.cpp
+	"Blob.h"
+
+1515944698 d:\info\lobjav\dandd\include\blob.h
+	<Monstre.h>
+
+1515890937 d:\info\lobjav\dandd\include\epee.h
+	<Objet.h>
+
+1515891458 d:\info\lobjav\dandd\include\armure.h
+	<Objet.h>
+
+1515893721 source:d:\info\lobjav\dandd\src\armure.cpp
+	"Armure.h"
+
+1515893721 source:d:\info\lobjav\dandd\src\epee.cpp
+	"Epee.h"
+
+1516022732 source:d:\info\lobjav\dandd\src\boss.cpp
+	"Boss.h"
+
+1516018885 d:\info\lobjav\dandd\include\boss.h
+	<Monstre.h>
+
